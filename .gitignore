@@ -36,3 +36,7 @@ yarn-error.log*
 # node modules
 node_modules
 ``` 
+node_modules/
+.npm/
+.cache/
+*.log
